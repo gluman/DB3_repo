@@ -2,30 +2,8 @@
 --не менее 5 жанров; +
 --не менее 8 альбомов; +
 --не менее 15 треков; +
---не менее 8 сборников.
+--не менее 8 сборников.+
 
-
--- UPDATE
--- добавим возврат из проката
---UPDATE course
---SET description = 'Java с нуля'
---WHERE id = 999;
---
--- проверим
---SELECT * FROM course
---WHERE id = 999;
---
---
--- DELETE
---DELETE FROM homeworktask 
---WHERE id = 3;
---
--- удалим запись о прокате
---DELETE FROM course 
---WHERE id = 999;
---
--- проверим
---SELECT * FROM course;
 
 INSERT INTO singers(name_singer)
 VALUES ('Roxette'), ('Progigy'), ('Tiesto'), ('David Guetta'), ('Rihanna'), ('Depeche mode'), ('Ledy Gaga');
