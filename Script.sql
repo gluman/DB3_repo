@@ -1,0 +1,2 @@
+--DROP TABLE Singers;
+--DROP TABLE Music_genres;
